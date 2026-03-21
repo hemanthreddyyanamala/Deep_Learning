@@ -28,7 +28,7 @@ A powerful, interactive web-based image editing application built with Streamlit
 1. **Clone/Download** the project
 2. **Install dependencies**:
    ```bash
-   pip install streamlit opencv-python pillow numpy streamlit-image_comparison```
+   pip install streamlit opencv-python pillow numpy streamlit-image_comparison
 
 
 3. **Save your code as app.py**
@@ -36,6 +36,6 @@ A powerful, interactive web-based image editing application built with Streamlit
 4. **Run the app:**
 
    ```bash
-   streamlit run app.py ```
+   streamlit run app.py
 
 5. **Open http://localhost:8501 in your browser**
