@@ -35,7 +35,7 @@ A powerful, interactive web-based image editing application built with Streamlit
 
 4. **Run the app:**
 
-``` bash
-streamlit run app.py ```
+   ```bash
+   streamlit run app.py ```
 
 5. **Open http://localhost:8501 in your browser**
