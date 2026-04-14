@@ -3,4 +3,4 @@ streamlit-image-comparison
 scikit-image 
 imagecodecs
 opencv-python
-opencv-python-headless
+opencv-python-headless # for streamlit
