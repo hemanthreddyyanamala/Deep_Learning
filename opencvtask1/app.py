@@ -52,6 +52,8 @@ if img:
     elif ft=='Original':
         eimg=npimg
     
+    #eimg=cv2.cvtColor(np.array(img))
+    
     img=cv2.resize(npimg,(x,y))
     if btn_warm:
         rows, cols = img.shape[:2]
