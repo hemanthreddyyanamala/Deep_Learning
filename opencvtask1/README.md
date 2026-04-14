@@ -46,3 +46,6 @@ Image editing application built with Streamlit. Upload an image and apply real-t
    streamlit run opencvtask1/app.py
 
 5. **Open http://localhost:8501 in your browser**
+
+### live at https://opencvtask1-ccztvgnlvjjqyy5bubnhom.streamlit.app/ 
+![alt text](image.png)
