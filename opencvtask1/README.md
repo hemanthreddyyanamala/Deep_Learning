@@ -1,6 +1,6 @@
-# Image Editor Pro
+# Image Editor Project
 
-A powerful, interactive web-based image editing application built with Streamlit. Upload an image and apply real-time filters, adjustments, and effects with a sleek side-panel interface for seamless editing and comparison.
+Image editing application built with Streamlit. Upload an image and apply real-time filters, adjustments, and effects with a sleek side-panel interface for seamless editing and comparison.
 
 ## Tools Used
 
@@ -25,17 +25,24 @@ A powerful, interactive web-based image editing application built with Streamlit
 
 ## Steps to Run
 
-1. **Clone/Download** the project
-2. **Install dependencies**:
+1. **Clone** the project
+   ```bash 
+   git clone https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1
+
+2. **Create** virtual environment
    ```bash
-   pip install streamlit opencv-python pillow numpy streamlit-image_comparison
+   python3 -m venv .venv
+3. **activate** venv:
+   ```bash
+   .venv/Scripts/activate #windows
+   source .venv/bin/activate # linux/mac
+4. **Install dependencies/requirements**:
+   ```bash
+   pip install opencvtask1/requirements.txt
 
-
-3. **Save your code as app.py**
-
-4. **Run the app:**
+5. **Run the app:**
 
    ```bash
-   streamlit run app.py
+   streamlit run opencvtask1/app.py
 
 5. **Open http://localhost:8501 in your browser**
