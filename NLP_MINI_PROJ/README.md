@@ -34,6 +34,7 @@ Output: Hate / Not Hate<br>
 * Vocabulary Size: 38,616 words.
 
 ## Model Architecture
+![alt text](image.png)
 ```mermaid
 flowchart TB
 
