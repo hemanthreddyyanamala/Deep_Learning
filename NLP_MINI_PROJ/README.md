@@ -73,7 +73,6 @@ flowchart TB
 ## Training Details
 - Loss function:Binary Crossentropy
 - Optimizer:Adam
-- Learning rate:
 - Number of epochs:10
 - Hardware used:Nvidia-2050 [cuda Version-13.0]
 - Evaluation metric:accuracy
