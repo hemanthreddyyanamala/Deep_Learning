@@ -1,4 +1,4 @@
 streamlit
 numpy
 nltk
-tensorflow[and-cuda]
+tensorflow
