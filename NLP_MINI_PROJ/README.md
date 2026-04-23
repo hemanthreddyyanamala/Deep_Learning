@@ -81,3 +81,27 @@ flowchart TB
 - Training Accuracy:0.9617
 - Validation Accuracy:0.9328
 - Test Accuracy:0.9399 
+
+## Steps to Run
+
+1. **Clone** the project
+   ```bash 
+   git clone https://github.com/hemanthreddyyanamala/neural_networks/tree/main/NLP_MINI_PROJ
+
+2. **Create** virtual environment
+   ```bash
+   python3 -m venv .venv
+3. **activate** venv:
+   ```bash
+   .venv/Scripts/activate #windows
+   source .venv/bin/activate # linux/mac
+4. **Install dependencies/requirements**:
+   ```bash
+   pip install NLP_MINI_PROJ/requirements.txt
+
+5. **Run the app:**
+
+   ```bash
+   streamlit run NLP_MINI_PROJ/app.py
+
+**Open http://localhost:8501 in your browser**
